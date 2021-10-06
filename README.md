@@ -1,4 +1,4 @@
-# Tailwind CSS fundamentals
+# Tailwind CSS - Step by Step
 
 In this repository you can find the final *index* file after finishing each lesson of the course:
 
