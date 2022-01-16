@@ -1,9 +1,8 @@
 module.exports = {
-  mode: 'jit',
-  purge: [
-    './*.html'
+  content: [
+    './*.html',
   ],
-  darkMode: 'media', // or 'media' or 'class'
+  darkMode: 'media',
   theme: {
     extend: {
       typography: (theme) => ({
